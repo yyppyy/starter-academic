@@ -67,5 +67,3 @@ email: "yanpeng.yu@yale.edu"
 highlight_name: false
 ---
 I am a first-year PhD student at Computer Systems Lab at Yale University, under the supervision of Professor Anurag Khandelwal and Professor Lin Zhong. My research interests include operating systems, computer networks and memory disaggregation. Prior to my PHD study, I was an undergraduate student at Peking University.
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
