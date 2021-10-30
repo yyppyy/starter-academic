@@ -9,7 +9,8 @@ authors:
   - Anurag Khandelwal
   - Lin Zhong
   - Abhishek Bhattacharjee
-publication_short: arXiv:2107.00164 [cs]
+publication: SOSP'21
+publication_short: ""
 draft: false
 featured: false
 image:
