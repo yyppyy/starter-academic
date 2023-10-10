@@ -6,7 +6,7 @@ title: Yanpeng Yu
 superuser: true
 
 # Role/position/tagline
-role: Second-year PHD student @ Yale University
+role: Third-year PHD student @ Yale University
 
 # Organizations/Affiliations to show in About widget
 organizations:
