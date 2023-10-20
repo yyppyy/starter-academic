@@ -1,7 +1,7 @@
 ---
 title: "GCS: Generalized cache coherence for efficient and scalable synchronization"
 publication_types:
-  - "2023"
+  - "1"
 authors:
   - Yanpeng Yu
   - Seung-seob Lee
@@ -15,4 +15,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+date: 2023-10-18T07:27:19.047Z
 ---
