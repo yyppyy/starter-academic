@@ -18,17 +18,18 @@ bio: My research interests include operating systems, computer networks and memo
 
 # Interests to show in About widget
 interests:
-- operating systems
-- computer networks
 - memory disaggregation
+- operating systems
+- distributed systems
+- computer networks
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: Ph.D. in Computer Science
     institution: Yale University
-    year: 2021-
-  - course: BSc in Computer Science and Technology
+    year: 2021-present
+  - course: B.Sc. in Computer Science and Technology
     institution: Peking University
     year: 2017-2021
 
@@ -66,4 +67,4 @@ email: "yanpeng.yu@yale.edu"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a third-year PhD student at the [Computer Systems Lab](https://csl.yale.edu/) at [Yale University](https://www.yale.edu/), under the supervision of Professor [Anurag Khandelwal](http://anuragkhandelwal.com/) and Professor [Lin Zhong](http://www.linzhong.org/). My research interests include operating systems, computer networks and memory disaggregation. Prior to my PHD study, I was an undergraduate student at [Peking University](https://english.pku.edu.cn).
+I am a third-year Ph.D. student at the Department of Computer Science, [Yale University](https://www.yale.edu/), advised by Professor [Anurag Khandelwal](http://anuragkhandelwal.com/) and Professor [Lin Zhong](http://www.linzhong.org/). My research interests include memory disaggregation, operating systems, distributed systems, and computer networks. Prior to my Ph.D. study, I was an undergraduate student at [Peking University](https://english.pku.edu.cn).
