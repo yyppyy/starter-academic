@@ -1,15 +1,13 @@
 ---
-title: "MIND: In-Network Memory Management for Disaggregated Data Centers"
+title: "GCS: Generalized cache coherence for efficient and scalable synchronization"
 publication_types:
   - "1"
 authors:
-  - Seung-seob Lee
   - Yanpeng Yu
-  - Yupeng Tang
+  - Seung-seob Lee
   - Anurag Khandelwal
   - Lin Zhong
-  - Abhishek Bhattacharjee
-publication: SOSP'21
+publication: in submission
 publication_short: ""
 draft: false
 featured: false
@@ -17,5 +15,4 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-07-18T07:27:19.047Z
 ---
