@@ -1,13 +1,13 @@
 ---
 title: "GCS: Generalized cache coherence for efficient and scalable synchronization"
 publication_types:
-  - "1"
+  - "2023"
 authors:
   - Yanpeng Yu
   - Seung-seob Lee
   - Anurag Khandelwal
   - Lin Zhong
-publication: in submission
+publication: In Submission
 publication_short: ""
 draft: false
 featured: false
