@@ -67,6 +67,6 @@ email: "yanpeng.yu@yale.edu"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a third-year Ph.D. student at the Department of Computer Science, [Yale University](https://www.yale.edu/), advised by Professor [Anurag Khandelwal](http://anuragkhandelwal.com/) and Professor [Lin Zhong](http://www.linzhong.org/). My research interests include memory disaggregation, operating systems, distributed systems, and computer networks. Prior to my Ph.D. study, I was an undergraduate student at [Peking University](https://english.pku.edu.cn).
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a third-year Ph.D. student at the Department of Computer Science, [Yale University](https://www.yale.edu/), advised by Professor [Anurag Khandelwal](http://anuragkhandelwal.com/) and Professor [Lin Zhong](http://www.linzhong.org/). My research interests include memory disaggregation, operating systems, distributed systems, and computer networks. Prior to my Ph.D. study, I was an undergraduate student at [Peking University](https://english.pku.edu.cn).
 
