@@ -14,21 +14,26 @@ organizations:
   url: https://www.yale.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include operating systems, computer networks and memory disaggregation.
+bio: My research interests include operating systems, cache coherence protocols and memory disaggregation.
 
 # Interests to show in About widget
 interests:
 - memory disaggregation
-- operating systems
+- cache coherence protocols
 - distributed systems
-- computer networks
 
 # Education to show in About widget
-education:
+education & experience:
   courses:
+  - course: Research Intern in the Architecture Research Group
+    institution: NVIDIA Corporation
+    year: 2024/05-2024/08
   - course: Ph.D. in Computer Science
     institution: Yale University
-    year: 2021-present
+    year: 2024-present
+  - course: M.Sc. in Computer Science
+    institution: Yale University
+    year: 2021-2024
   - course: B.Sc. in Computer Science and Technology
     institution: Peking University
     year: 2017-2021
