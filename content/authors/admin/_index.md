@@ -23,11 +23,11 @@ interests:
 - distributed systems
 
 # Education to show in About widget
-education & experience:
+education and experience:
   courses:
   - course: Research Intern in the Architecture Research Group
     institution: NVIDIA Corporation
-    year: 2024/05-2024/08
+    year: 2024-2024
   - course: Ph.D. in Computer Science
     institution: Yale University
     year: 2024-present
