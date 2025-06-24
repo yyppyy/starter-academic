@@ -1,12 +1,12 @@
 ---
-title: "Low-Latency, Bandwidth-Efficient and Scalable Release Consistency via Directory Ordering"
+title: "CORD: Low-Latency, Bandwidth-Efficient and Scalable Release Consistency via Directory Ordering"
 publication_types:
   - "1"
 authors:
   - Yanpeng Yu
   - Nicolai Oswald
   - Anurag Khandelwal
-publication: ISCA'25
+publication: ISCA'25 __[Distinguished Artifact Award]__
 publication_short: ""
 draft: false
 featured: false
