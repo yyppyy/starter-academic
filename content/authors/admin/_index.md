@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Computer Science
     institution: Yale University
-    year: 2024-present
+    year: 2021-present
   - course: M.Sc. in Computer Science
     institution: Yale University
     year: 2021-2024
