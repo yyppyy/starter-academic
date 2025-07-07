@@ -27,6 +27,9 @@ interests:
 # Education to show in About widget
 education:
 course:
+  - course: awerq
+    institution: qewrqe
+    year: 2024-1111
   - course: Ph.D. in Computer Science
     institution: Yale University
     year: 2024-present
