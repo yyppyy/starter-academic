@@ -26,7 +26,7 @@ interests:
 
 # Education to show in About widget
 education:
-courses:
+  courses:
   - course: Ph.D. in Computer Science
     institution: Yale University
     year: 2024-present
