@@ -14,5 +14,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2025-04-22T07:27:19.047Z
+date: 2025-06-22T07:27:19.047Z
+links:
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3695053.3731074
+url_code: https://github.com/yale-nova/CORD.git
 ---
