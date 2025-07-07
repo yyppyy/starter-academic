@@ -20,6 +20,7 @@ bio: My research interests include operating systems, cache coherence protocols 
 
 # Interests to show in About widget
 interests:
+- Memory Disaggregation
 - Cache Coherence Protocols
 - Synchronization Protocols
 - Architecture/System for ML
