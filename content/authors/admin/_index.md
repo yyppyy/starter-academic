@@ -10,6 +10,8 @@ role: PhD student @ Yale University
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Department of Computer Science
+  url: https://cpsc.yale.edu/
 - name: Yale University
   url: https://www.yale.edu/
 
