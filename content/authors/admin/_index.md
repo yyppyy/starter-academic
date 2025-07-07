@@ -20,16 +20,16 @@ bio: My research interests include operating systems, cache coherence protocols 
 
 # Interests to show in About widget
 interests:
-- memory disaggregation
-- cache coherence protocols
-- distributed systems
+- Cache Coherence Protocols
+- Synchronization Protocols
+- Architecture/System for ML
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D. in Computer Science
     institution: Yale University
-    year: 2021-present
+    year: 2021-Present
   - course: M.Sc. in Computer Science
     institution: Yale University
     year: 2021-2024
