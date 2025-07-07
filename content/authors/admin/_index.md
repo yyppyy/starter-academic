@@ -27,9 +27,6 @@ interests:
 # Education to show in About widget
 education:
 course:
-  - course: Research Intern
-    institution: Architecture Research Group, NVIDIA Corporation
-    year: 2024-2024
   - course: Ph.D. in Computer Science
     institution: Yale University
     year: 2024-present
