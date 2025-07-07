@@ -6,7 +6,7 @@ title: Yanpeng Yu
 superuser: true
 
 # Role/position/tagline
-role: Fourth-year PhD student @ Yale University
+role: PhD student @ Yale University
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -24,6 +24,7 @@ interests:
 
 # Education to show in About widget
 education:
+course:
   - course: Research Intern
     institution: Architecture Research Group, NVIDIA Corporation
     year: 2024-2024
