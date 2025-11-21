@@ -76,7 +76,7 @@ highlight_name: false
 
 I am a fifth-year Ph.D. student at the Department of Computer Science, [Yale University](https://www.yale.edu/), advised by Professor [Anurag Khandelwal](http://anuragkhandelwal.com/) and Professor [Lin Zhong](http://www.linzhong.org/). My research focuses on designing efficient cache-coherence and synchronization protocols for large-scale shared memory systems such as disaggregated memory or CPU-GPU shared memory.
 
-I’ve had the exciting opportunity to spend two summers as a research intern in the Architecture Research Group at [NVIDIA Corporation](https://www.nvidia.com/), where I worked on architectural and algorithmic designs for emerging workloads such as Large Language Models (LLM).
+I’ve had the exciting opportunity to spend two summers as a research intern in the Architecture Research Group at [NVIDIA Corporation](https://www.nvidia.com/), where I worked on systems and architectures for Large Language Models (LLM).
 
 Prior to my Ph.D. study, I was an undergraduate student at [Peking University](https://english.pku.edu.cn).
 
