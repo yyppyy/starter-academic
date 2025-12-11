@@ -3,7 +3,7 @@ title: "Efficient MoE Serving in the Memory-Bound Regime: Balance Activated Expe
 publication_types:
   - "1"
 authors:
-  - Yanpeng Yu∗
+  - Yanpeng Yu*
   - Haiyue Ma*
   - (*equal contribution)
   - Krish Agarwal
@@ -25,7 +25,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-10-18T07:27:19.047Z
+date: 2025-11-17T07:27:19.047Z
 links:
 url_pdf: https://arxiv.org/abs/2512.09277
 ---
