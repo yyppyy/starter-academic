@@ -5,6 +5,7 @@ publication_types:
 authors:
   - "Yanpeng Yu"
   - "Haiyue Ma"
+  - "*Equal Contribution"
   - "Krish Agarwal"
   - "Nicolai Oswald"
   - "Qijing Huang"
@@ -19,8 +20,9 @@ authors:
 
 # NEW: notes line up 1-to-1 with authors above
 author_notes:
-  - "Equal contribution"
-  - "Equal contribution"
+  - "*"
+  - "*"
+  - ""
   - ""
   - ""
   - ""
