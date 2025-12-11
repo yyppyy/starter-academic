@@ -3,22 +3,37 @@ title: "Efficient MoE Serving in the Memory-Bound Regime: Balance Activated Expe
 publication_types:
   - "1"
 authors:
-  - Yanpeng Yu *
-  - Haiyue Ma*
-  - (*equal contribution)
-  - Krish Agarwal
-  - Nicolai Oswald
-  - Qijing Huang
-  - Hugo Linsenmaier
-  - Chunhui Mei
-  - Ritchie Zhao
-  - Ritika Borkar
-  - Bita Rouhani
-  - David Nellans
-  - Ronny Krashinsky
-  - Anurag Khandelwal
+  - "Yanpeng Yu"
+  - "Haiyue Ma"
+  - "Krish Agarwal"
+  - "Nicolai Oswald"
+  - "Qijing Huang"
+  - "Hugo Linsenmaier"
+  - "Chunhui Mei"
+  - "Ritchie Zhao"
+  - "Ritika Borkar"
+  - "Bita Rouhani"
+  - "David Nellans"
+  - "Ronny Krashinsky"
+  - "Anurag Khandelwal"
+
+# NEW: notes line up 1-to-1 with authors above
+author_notes:
+  - "Equal contribution"
+  - "Equal contribution"
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+
 publication: In Submission
-publication_short: ""
 draft: false
 featured: false
 image:
