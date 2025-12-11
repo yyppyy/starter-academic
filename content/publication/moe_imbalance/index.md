@@ -3,9 +3,9 @@ title: "Efficient MoE Serving in the Memory-Bound Regime: Balance Activated Expe
 publication_types:
   - "1"
 authors:
-  - "Yanpeng Yu"
-  - "Haiyue Ma"
-  - "*Equal Contribution"
+  - "Yanpeng Yu*"
+  - "Haiyue Ma*"
+  - "(*equal contribution)"
   - "Krish Agarwal"
   - "Nicolai Oswald"
   - "Qijing Huang"
@@ -17,23 +17,6 @@ authors:
   - "David Nellans"
   - "Ronny Krashinsky"
   - "Anurag Khandelwal"
-
-# NEW: notes line up 1-to-1 with authors above
-author_notes:
-  - "*"
-  - "*"
-  - ""
-  - ""
-  - ""
-  - ""
-  - ""
-  - ""
-  - ""
-  - ""
-  - ""
-  - ""
-  - ""
-  - ""
 
 publication: In Submission
 draft: false
