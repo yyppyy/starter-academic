@@ -6,7 +6,7 @@ authors:
   - Yanpeng Yu
   - Nicolai Oswald
   - Anurag Khandelwal
-publication: ISCA'25 ___Distinguished Artifact Award___. Selected for ___IEEE Micro’s Top Picks in Computer Architecture___ in 2025
+publication: ISCA'25 ___Distinguished Artifact Award___. Selected for ___IEEE Micro’s Top Picks in Computer Architecture in 2025___
 publication_short: ""
 draft: false
 featured: false
