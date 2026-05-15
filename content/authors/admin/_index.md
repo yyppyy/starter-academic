@@ -74,11 +74,11 @@ highlight_name: false
 ---
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-I am a fifth-year Ph.D. student at the Department of Computer Science, [Yale University](https://www.yale.edu/), advised by Professor [Anurag Khandelwal](http://anuragkhandelwal.com/) and Professor [Lin Zhong](http://www.linzhong.org/). My research focuses on designing efficient cache-coherence and synchronization protocols for large-scale shared memory systems such as disaggregated memory or CPU-GPU shared memory.
+I received my Ph.D. in Computer Science from [Yale University](https://www.yale.edu/), where I was advised by Professor [Anurag Khandelwal](http://anuragkhandelwal.com/) and Professor [Lin Zhong](http://www.linzhong.org/). My research focuses on designing efficient cache-coherence and synchronization protocols for large-scale shared-memory systems.
 
-My research received a ___Distinguished Artifact Award___ at ISCA 2025, and was selected for ___IEEE Micro’s Top Picks in Computer Architecture in 2025___.
+During my Ph.D., I spent two summers as a research intern with the Architecture Research Group at [NVIDIA](https://www.nvidia.com/), where I worked on systems and architectures for Large Language Models (LLMs).
 
-I’ve had the exciting opportunity to spend two summers as a research intern in the Architecture Research Group at [NVIDIA Corporation](https://www.nvidia.com/), where I worked on systems and architectures for Large Language Models (LLM).
+My work was named an ___IEEE Micro Top Pick in Computer Architecture (2025)___ and received a ___Distinguished Artifact Award at ISCA 2025___. Techniques from my research have been adopted in NVIDIA's [Vera Rubin](https://nvidianews.nvidia.com/news/nvidia-vera-rubin-platform) platform.
 
-Prior to my Ph.D. study, I was an undergraduate student at [Peking University](https://english.pku.edu.cn).
+Before Yale, I completed my undergraduate studies at [Peking University](https://english.pku.edu.cn).
 
